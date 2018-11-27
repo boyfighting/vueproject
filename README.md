@@ -1,6 +1,6 @@
-# baixiaobo
+# lalala
 
-> A Vue.js project
+> vue common start
 
 ## Build Setup
 
